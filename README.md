@@ -1,6 +1,7 @@
 ### Hi there, I'm Zaid - aka [Ctrl-Zed][website] 👋
 
 ## I'm a Freelance Developer, Hardcore Gamer and an Otaku!
+- :heartbeat: In love with React.Js 
 - 🔭 I’m currently working on an E-commerce project!
 - 🌱 I’m currently learning Node.js and GraphQL
 - 👯 I’m looking to collaborate with other content creators
