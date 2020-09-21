@@ -1,6 +1,5 @@
 ### Hi there, I'm Zaid - aka [Ctrl-Zed][website] 👋
 
-![Alt Text](https://media.tenor.com/images/8e39158aa2c6f0976541199bfa188f96/tenor.gif)
 
 ## I'm a Freelance Developer, Hardcore Gamer and an Otaku!
 - :heartbeat: In love with React.Js 
