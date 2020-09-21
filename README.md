@@ -1,5 +1,7 @@
 ### Hi there, I'm Zaid - aka [Ctrl-Zed][website] 👋
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 ## I'm a Freelance Developer, Hardcore Gamer and an Otaku!
 - :heartbeat: In love with React.Js 
 - 🔭 I’m currently working on an E-commerce project!
