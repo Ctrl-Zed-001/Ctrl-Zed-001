@@ -35,7 +35,7 @@
 <br />
 <br />
 
-[website]: https://branditystudio.com
+[website]: https://zed-portfolio.netlify.app/
 [twitter]: https://twitter.com/TeenZohan
 [instagram]: https://www.instagram.com/zed_shaikh/
 [linkedin]: https://www.linkedin.com/in/shaikh-zaid/
