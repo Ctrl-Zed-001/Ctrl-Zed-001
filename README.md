@@ -3,10 +3,10 @@
 
 ## I'm a Freelance Developer, Hardcore Gamer and an Otaku!
 - :heartbeat: In love with React.Js 
-- 🔭 I’m currently working on an E-commerce project!
-- 🌱 I’m currently learning Node.js and GraphQL
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working on a restaurant POS project!
+- 🌱 Currently learning Node.js and GraphQL
+- 👯 Looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love adventuring.
 
 ### Connect with me:
