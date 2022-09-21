@@ -1,12 +1,11 @@
 ### Hi there, I'm Zaid - aka [Ctrl-Zed][website] 👋
 
 
-## I'm a Freelance Developer, Hardcore Gamer and an Otaku!
+## I'm a Fullstack Developer
 - :heartbeat: In love with React.Js 
-- 🔭 I’m currently working on a restaurant POS project!
-- 🌱 Currently learning web3 and blockchain
+- 🔭 I’m currently working on an e-commerce project!
+- 🌱 Learning Cloud Tech
 - 👯 Looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love adventuring.
 
 ### Connect with me:
